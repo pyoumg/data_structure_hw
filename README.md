@@ -1,7 +1,7 @@
 # data_structure_hw
 2020-1 자료구조 과제
 ---------
-13은 업로드 하지 않음(red black tree 사용)
+13은 업로드 하지 않음(red black tree 사용)<br>
 nq. nqueen (백트래킹)
 1. 선택정렬
 2. 다항식
