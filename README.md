@@ -2,6 +2,7 @@
 2020-1 자료구조 과제
 13은 업로드 하지 않음(red black tree 사용)
 --------
+nq. nqueen (백트래킹)
 1. 선택정렬
 2. 다항식
 3. 다항식
@@ -14,4 +15,4 @@
 10. Binary Search Tree
 11. Binary tree Search with deletion and range search
 12. Biconnected Components <br>
-nq. nqueen (백트래킹)
+
